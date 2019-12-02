@@ -51,4 +51,56 @@
         <file>resources/images/48/TV-Woody-icon.png</file>
         <file>resources/images/48/Young-Lion-icon.png</file>
     </qresource>
+    <qresource prefix="/">
+        <file>resources/images/48_grey/Comics-Vision-icon.png</file>
+        <file>resources/images/48_grey/Comics-Wariron-icon.png</file>
+        <file>resources/images/48_grey/Comics-War-Machine-icon.png</file>
+        <file>resources/images/48_grey/Comics-X-icon.png</file>
+        <file>resources/images/48_grey/Final-Fantasy-Barret-Wallace-icon.png</file>
+        <file>resources/images/48_grey/Folder-Blue-Star-icon.png</file>
+        <file>resources/images/48_grey/Folder-Brown-icon.png</file>
+        <file>resources/images/48_grey/Folder-Brown-Star-icon.png</file>
+        <file>resources/images/48_grey/Folder-Green-icon.png</file>
+        <file>resources/images/48_grey/Folder-Orange-icon.png</file>
+        <file>resources/images/48_grey/Folder-Red-icon.png</file>
+        <file>resources/images/48_grey/Folders-icon.png</file>
+        <file>resources/images/48_grey/Guy-Cloud-icon.png</file>
+        <file>resources/images/48_grey/Man-Eye-Patch-icon.png</file>
+        <file>resources/images/48_grey/Spaceship-Cylon-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Akuma-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Balrog-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Blanka-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Chun-Li-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Dark-Hadou-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Dhalsim-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Ken-Masters-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Makoto-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Ryu-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Sakura-Kasugano-icon.png</file>
+        <file>resources/images/48_grey/Street-Fighter-Zangief-icon.png</file>
+        <file>resources/images/48_grey/Things-Badge-icon.png</file>
+        <file>resources/images/48_grey/Things-Bird-icon.png</file>
+        <file>resources/images/48_grey/Things-Ewok-Residence-Home-icon.png</file>
+        <file>resources/images/48_grey/Things-Folder-Police-icon.png</file>
+        <file>resources/images/48_grey/Things-Grape-Soda-Safety-Pin-icon.png</file>
+        <file>resources/images/48_grey/Things-Speaker-icon.png</file>
+        <file>resources/images/48_grey/Things-Submarine-icon.png</file>
+        <file>resources/images/48_grey/Things-Television-icon.png</file>
+        <file>resources/images/48_grey/Trash-Empty-icon.png</file>
+        <file>resources/images/48_grey/Trash-Full-icon.png</file>
+        <file>resources/images/48_grey/TV-Blue-Dr-Who-icon.png</file>
+        <file>resources/images/48_grey/TV-Captain-Adama-icon.png</file>
+        <file>resources/images/48_grey/TV-Dr-icon.png</file>
+        <file>resources/images/48_grey/TV-Gordon-Tremeshco-icon.png</file>
+        <file>resources/images/48_grey/TV-Johny-Cash-icon.png</file>
+        <file>resources/images/48_grey/TV-Kitty-icon.png</file>
+        <file>resources/images/48_grey/TV-Man-icon.png</file>
+        <file>resources/images/48_grey/TV-Ood-icon.png</file>
+        <file>resources/images/48_grey/TV-Pete-Hornberger-icon.png</file>
+        <file>resources/images/48_grey/TV-Smith-icon.png</file>
+        <file>resources/images/48_grey/TV-Snake-Eyes-icon.png</file>
+        <file>resources/images/48_grey/TV-Tigger-icon.png</file>
+        <file>resources/images/48_grey/TV-Woody-icon.png</file>
+        <file>resources/images/48_grey/Young-Lion-icon.png</file>
+    </qresource>
 </RCC>

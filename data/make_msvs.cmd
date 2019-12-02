@@ -1,5 +1,6 @@
-@set qtdir=D:\\programming\\ide\\lang\\qt\\5\.13\.1\\msvc2017_64
-@set qtdirforw=D:/programming/ide/lang/qt/5.13.1/msvc2017_64
+@rem set qtdir=C:\\drive_d\\programming\\ide\\lang\\qt\\5\.13\.1\\msvc2017_64
+@rem set qtdirforw=C:/drive_d/programming/ide/lang/qt/5.13.1/msvc2017_64
+@call qt_env.cmd
 @set msvs_build_path=bin\\$\(ProjectName\)_$\(Platform\)_$\(Configuration\)
 @set msvs_forw_build_path=bin/$\(ProjectName\)_$\(Platform\)_$\(Configuration\)
 @set msvs_rel_build_path=bin\\$\(ProjectName\)_$\(Platform\)_Release
