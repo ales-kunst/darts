@@ -1,19 +1,10 @@
 #include <QApplication>
 #include <QWidget>
 #include "MainWindow.h"
-#include <windows.h>
-#include <stdio.h>
-#include <fcntl.h>
-#include <io.h>
-#include <iostream>
-#include <fstream>
 #include "Console.h"
-
 
 // maximum mumber of lines the output console should have
 static const int16_t MAX_CONSOLE_LINES = 9000;
-
-
 
 int main(int argc, char *argv[]) {
 

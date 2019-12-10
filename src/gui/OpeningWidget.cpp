@@ -3,6 +3,7 @@
 #include <QHBoxLayout>
 #include <QPushButton>
 #include <QEvent>
+#include <QmouseEvent>
 #include <iostream>
 
 namespace ui_controls {
@@ -65,9 +66,14 @@ OpeningWidget::OpeningWidget(QWidget *parent) : QWidget(parent) {
 
 bool OpeningWidget::eventFilter(QObject *watched, QEvent *event) {
 
-   std::cout << "Event Filter --> " << event->type() << std::endl;
+   QPushButton *button      = qobject_cast<QPushButton *>(watched);
+   QMouseEvent *mouse_event = static_cast<QMouseEvent *>(event);
 
-   QPushButton * button = qobject_cast<QPushButton *>(watched);
+   if ((button != nullptr) && (mouse_event != nullptr) && (mouse_event->button() != Qt::NoButton)) {
+      std::cout << "Yuhuhu, bruhuhu [" << mouse_event->x() << ", " << mouse_event->y() << "] = " << event->type() 
+                << std::endl;
+   }
+
    if (!button) {
       return false;
    }
